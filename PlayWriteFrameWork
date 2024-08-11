@@ -1,1 +1,6 @@
 npm init playwright@latest // to include project in folder
+git init
+git remote add origin https://github.com/AbdElRhman8Magdy/PlaywrightToDoAPP.git
+git status
+git add .
+git status
